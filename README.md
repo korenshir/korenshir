@@ -1,4 +1,4 @@
-### Hi, I'm Shir. :curly_haired_woman:		
+### Hi, I'm Shir. :sunflower:		
 Third year computer science student, majoring Full-Stack development
   
 Projects I have been working on in the past 6 months:

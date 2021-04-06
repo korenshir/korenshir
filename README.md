@@ -1,7 +1,7 @@
 ### Hi, I'm Shir. :sunflower:		
 Third year computer science student, majoring Full-Stack development
   
-Projects I have been working on in the past 6 months:
+Projects I have been working on for the past 6 months:
 
 1.:seedling:	 **Little Buddy** - Web App: <br>
 The app keeps track of your house plants and reflect their current state of wellbeing.<br>
